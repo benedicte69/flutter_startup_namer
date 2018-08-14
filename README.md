@@ -1,6 +1,6 @@
 # flutter_startup_namer
 
-A new Flutter application.
+Training flutter 01
 
 ## Getting Started
 
